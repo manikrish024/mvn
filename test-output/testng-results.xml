@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97" started-at="2020-11-16T05:45:49Z" finished-at="2020-11-16T05:45:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97" started-at="2020-11-16T05:45:49Z" finished-at="2020-11-16T05:45:49Z">
+      <class name="org.test.Testng">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.test.Testng@523884b2]" name="beforeclass" is-config="true" duration-ms="25" started-at="2020-11-16T05:45:49Z" finished-at="2020-11-16T05:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="maintest()[pri:0, instance:org.test.Testng@523884b2]" name="maintest" duration-ms="10" started-at="2020-11-16T05:45:49Z" finished-at="2020-11-16T05:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maintest -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.test.Testng@523884b2]" name="beforemethod" is-config="true" duration-ms="0" started-at="2020-11-16T05:45:49Z" finished-at="2020-11-16T05:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.test.Testng@523884b2]" name="aftermethod" is-config="true" duration-ms="1" started-at="2020-11-16T05:45:49Z" finished-at="2020-11-16T05:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:org.test.Testng@523884b2]" name="afterclass" is-config="true" duration-ms="1" started-at="2020-11-16T05:45:49Z" finished-at="2020-11-16T05:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- org.test.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
