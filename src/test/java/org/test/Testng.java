@@ -18,7 +18,9 @@ public class Testng {
 	@AfterClass
 	private void afterclass() {
 		System.out.println("after class");
-
+		System.out.println("mani");
+System.out.println("raja");		
+System.out.println("manoj");
 	}
 	
 	@BeforeMethod
